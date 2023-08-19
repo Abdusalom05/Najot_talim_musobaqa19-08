@@ -6,7 +6,7 @@ function App() {
     <>
       <Menu />
     </>
-  );
+  )
 }
 
 export default App;
